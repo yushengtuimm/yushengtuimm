@@ -7,5 +7,10 @@ As a Software Engineer, I've worked on many cross-platform projects from full-st
   - NestJS a node.js back-end framework. 
   - Tailwindcss a css styling framework. 
   - GraphQL a query language for APIs
+ 
+- Techs to learn:
+  - Terraform
+  - Kubernetes
+  - More AWS tools
 
 - 📫 How to reach me: yushengtutaiwan@gmail.com
